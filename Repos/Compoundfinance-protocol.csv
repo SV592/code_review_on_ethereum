@@ -1,0 +1,157 @@
+PullRequestTitle,PullRequestNumber,PullRequestState,PullRequestCreatedAt,PullRequestUpdatedAt,PullRequestClosedAt,PullRequestMergedAt,PullRequestAuthor,PullRequestReviewsCount,PullRequestReviewers,PullRequestCommentsCount,ReviewDuration
+Compound Protocol v2.2 Release Candidate,1,MERGED,2019-10-12T17:44:40Z,2019-10-30T22:19:02Z,2019-10-30T22:19:01Z,2019-10-30T22:19:01Z,hayesgm,0,[],1,18 days 04:34:21
+Bump lodash from 4.17.11 to 4.17.15 in /scenario,2,CLOSED,2019-10-30T22:20:15Z,2020-01-13T19:13:19Z,2020-01-13T19:13:09Z,,dependabot,0,[],1,74 days 20:52:54
+Bump mixin-deep from 1.3.1 to 1.3.2,3,CLOSED,2019-10-30T22:20:16Z,2020-01-13T19:13:25Z,2020-01-13T19:13:10Z,,dependabot,0,[],1,74 days 20:52:54
+Bump webpack-bundle-analyzer from 3.1.0 to 3.3.2 in /scenario,4,CLOSED,2019-10-30T22:20:17Z,2020-01-13T19:13:25Z,2020-01-13T19:13:10Z,,dependabot,0,[],1,74 days 20:52:53
+Bump fstream from 1.0.11 to 1.0.12 in /scenario,5,CLOSED,2019-10-30T22:20:18Z,2020-01-13T19:13:26Z,2020-01-13T19:13:10Z,,dependabot,0,[],1,74 days 20:52:52
+Bump mixin-deep from 1.3.1 to 1.3.2 in /scenario,6,CLOSED,2019-10-30T22:20:18Z,2020-01-13T19:13:26Z,2020-01-13T19:13:11Z,,dependabot,0,[],1,74 days 20:52:53
+Bump handlebars from 4.0.12 to 4.5.1,7,CLOSED,2019-10-30T22:20:21Z,2019-12-03T20:09:45Z,2019-12-03T20:09:43Z,,dependabot,0,[],1,33 days 21:49:22
+Comptroller.sol typo fix,8,CLOSED,2019-11-01T16:14:14Z,2022-01-21T23:59:00Z,2020-06-25T22:19:30Z,,bshevchenko,0,[],1,237 days 06:05:16
+Update Whitepaper to 1.0,9,CLOSED,2019-11-26T16:18:07Z,2020-06-25T22:15:20Z,2020-06-25T22:15:20Z,,marcuswin,0,[],1,212 days 05:57:13
+Compound v2.3 Pre-Release,10,MERGED,2019-12-03T20:02:25Z,2019-12-03T20:02:33Z,2019-12-03T20:02:32Z,2019-12-03T20:02:32Z,hayesgm,0,[],1,0 days 00:00:07
+Bump handlebars from 4.0.12 to 4.5.3,11,CLOSED,2019-12-03T20:09:40Z,2020-01-13T19:13:25Z,2020-01-13T19:13:11Z,,dependabot,0,[],1,40 days 23:03:31
+Bump js-yaml from 3.12.1 to 3.13.1,12,CLOSED,2019-12-04T01:59:02Z,2020-01-13T19:13:26Z,2020-01-13T19:13:11Z,,dependabot,0,[],1,40 days 17:14:09
+Add cDAIDelegate and DSR interest rate model,13,MERGED,2019-12-20T01:03:28Z,2019-12-20T01:06:09Z,2019-12-20T01:06:08Z,2019-12-20T01:06:08Z,jflatow,0,[],1,0 days 00:02:40
+Bump fstream from 1.0.11 to 1.0.12,14,CLOSED,2019-12-20T01:06:57Z,2020-01-13T19:13:25Z,2020-01-13T19:13:12Z,,dependabot,0,[],1,24 days 18:06:15
+Use a permissive open source license,15,CLOSED,2020-01-30T01:14:09Z,2020-06-15T04:21:07Z,2020-06-15T04:21:07Z,,travs,0,[],1,137 days 03:06:58
+fix CToken admin role acceptance function,16,CLOSED,2020-02-07T00:49:36Z,2020-02-07T02:16:55Z,2020-02-07T02:16:28Z,,ItsNickBarry,0,[],1,0 days 01:26:52
+add tbtc,17,MERGED,2020-02-12T00:29:16Z,2020-02-12T00:50:20Z,2020-02-12T00:50:19Z,2020-02-12T00:50:19Z,maxwolff,0,[],1,0 days 00:21:03
+new proxy,18,CLOSED,2020-02-12T01:51:27Z,2020-06-10T18:05:52Z,2020-02-12T02:09:30Z,,maxwolff,0,[],1,0 days 00:18:03
+update proxy,19,MERGED,2020-02-12T02:09:12Z,2020-02-12T02:09:52Z,2020-02-12T02:09:51Z,2020-02-12T02:09:51Z,maxwolff,0,[],1,0 days 00:00:39
+Add .circleci/config.yml,20,CLOSED,2020-02-25T09:54:36Z,2020-06-25T22:20:18Z,2020-06-25T22:20:17Z,,Ces-aq,0,[],1,121 days 12:25:41
+Bump acorn from 5.7.3 to 5.7.4 in /scenario,21,CLOSED,2020-03-15T16:02:26Z,2020-04-10T22:24:24Z,2020-04-10T22:24:23Z,,dependabot,0,[],1,26 days 06:21:57
+Bump acorn from 5.7.3 to 5.7.4,22,CLOSED,2020-04-05T15:21:13Z,2020-04-10T22:25:15Z,2020-04-10T22:25:13Z,,dependabot,0,[],1,5 days 07:04:00
+Modify DAIInterestRateModel.sol => DAIInterestRateModelV2.sol,23,MERGED,2020-04-24T14:54:10Z,2021-04-23T21:43:09Z,2020-04-24T22:22:10Z,2020-04-24T22:22:10Z,0age,0,[],1,0 days 07:28:00
+fix: yarn resolutions bug,24,CLOSED,2020-05-24T12:26:21Z,2020-07-09T18:37:07Z,2020-07-09T18:37:07Z,,PaulRBerg,0,[],1,46 days 06:10:46
+feat: update whitepaper,25,CLOSED,2020-05-24T16:55:13Z,2020-07-10T07:17:43Z,2020-07-09T18:35:50Z,,PaulRBerg,0,[],1,46 days 01:40:37
+Add .gitattributes for solidity syntax highlight ,26,MERGED,2020-06-12T13:06:44Z,2020-06-25T06:03:38Z,2020-06-25T06:03:37Z,2020-06-25T06:03:37Z,antoncoding,0,[],1,12 days 16:56:53
+Fix Yarn Reference for Ganache-Core,28,MERGED,2020-06-23T06:07:23Z,2020-06-23T06:44:49Z,2020-06-23T06:44:48Z,2020-06-23T06:44:48Z,hayesgm,0,[],1,0 days 00:37:25
+Patch the second-order issues coming out of COMP distribution launch,29,MERGED,2020-06-23T22:26:07Z,2022-12-02T00:44:02Z,2020-07-08T17:22:38Z,2020-07-08T17:22:38Z,jflatow,0,[],1,14 days 18:56:31
+fix deploy and repl commands paths,30,MERGED,2020-06-27T14:19:20Z,2020-07-08T19:27:20Z,2020-07-08T19:27:20Z,2020-07-08T19:27:20Z,vlddm,0,[],1,11 days 05:08:00
+Modify DaiInterestRateModel slightly,31,CLOSED,2020-06-30T04:30:14Z,2020-07-16T21:24:17Z,2020-07-10T19:04:51Z,,0age,0,[],1,10 days 14:34:37
+Fixing `repl` command for ubuntu,33,MERGED,2020-07-01T12:43:34Z,2020-07-08T17:48:43Z,2020-07-08T17:48:43Z,2020-07-08T17:48:43Z,jchittoda,0,[],1,7 days 05:05:09
+Use github: in yarn resolutions and remove whitepaper,34,MERGED,2020-07-08T22:01:20Z,2020-07-09T17:44:22Z,2020-07-09T17:44:21Z,2020-07-09T17:44:21Z,jflatow,0,[],1,0 days 19:43:01
+Enable updateable parameters for JumpRateModelV2 & use in Dai IRM v3,35,MERGED,2020-07-11T13:50:08Z,2020-12-02T20:54:23Z,2020-07-29T23:41:56Z,2020-07-29T23:41:56Z,0age,0,[],1,18 days 09:51:48
+Fix typo in Governor Alpha section,36,MERGED,2020-07-14T05:08:16Z,2020-08-20T01:57:40Z,2020-08-19T19:10:00Z,2020-08-19T19:10:00Z,James-Sangalli,0,[],1,36 days 14:01:44
+Add borrow limit for each market,42,CLOSED,2020-07-14T17:56:14Z,2020-09-14T21:47:36Z,2020-09-14T21:47:35Z,,arr00,0,[],1,62 days 03:51:21
+Networks config and abis for the open price feed proposal,45,MERGED,2020-07-30T21:41:33Z,2020-08-19T18:55:52Z,2020-08-19T18:55:50Z,2020-08-19T18:55:50Z,jflatow,0,[],1,19 days 21:14:17
+gas optimization for CToken.accrueInterest(),46,CLOSED,2020-08-01T16:28:31Z,2020-09-14T23:03:06Z,2020-09-14T23:03:06Z,,yuange1024,0,[],1,44 days 06:34:35
+Update InterestRateModel.sol,47,MERGED,2020-08-17T05:58:20Z,2020-08-17T10:19:15Z,2020-08-17T06:44:19Z,2020-08-17T06:44:19Z,payomdousti,0,[],1,0 days 00:45:59
+Revert the CErc20Delegator back to slightly less optimized version,48,CLOSED,2020-08-19T19:27:46Z,2020-09-14T23:05:01Z,2020-09-14T23:05:01Z,,jflatow,0,[],1,26 days 03:37:15
+Upgrade saddle version,50,CLOSED,2020-08-21T20:26:30Z,2020-08-25T05:09:37Z,2020-08-21T20:30:36Z,,toninorair,0,[],1,0 days 00:04:06
+name > NAME,52,CLOSED,2020-08-22T07:50:24Z,2020-08-24T20:14:13Z,2020-08-24T20:14:13Z,,moshejs,0,[],1,2 days 12:23:49
+fixed: Timelock.sol constructor revert message,53,CLOSED,2020-08-25T13:48:12Z,2020-08-27T14:07:06Z,2020-08-27T14:07:06Z,,tansawit,0,[],1,2 days 00:18:54
+"upgrade everything, fingers crossed",55,CLOSED,2020-08-26T17:58:22Z,2020-09-14T23:49:52Z,2020-09-14T23:49:52Z,,toninorair,0,[],1,19 days 05:51:30
+Fix typo in Timelock constructor error message,56,CLOSED,2020-08-27T13:40:19Z,2020-08-27T15:42:25Z,2020-08-27T15:42:24Z,,chefnomi,0,[],1,0 days 02:02:05
+Add a 'Contributing' section + link to README,57,MERGED,2020-08-27T16:50:20Z,2021-03-28T00:06:33Z,2020-08-27T18:38:01Z,2020-08-27T18:38:01Z,jflatow,0,[],1,0 days 01:47:41
+Delete ethers lib,58,CLOSED,2020-08-27T17:51:33Z,2020-09-14T23:58:17Z,2020-09-14T23:58:17Z,,toninorair,0,[],1,18 days 06:06:44
+CBP token 169daa7,59,CLOSED,2020-08-29T08:43:33Z,2020-09-03T22:10:11Z,2020-09-03T22:10:11Z,,ComboDeFi,0,[],1,5 days 13:26:38
+JumpRateModelV2 Refactorization and addition of LegacyJumpRateModelV2,61,CLOSED,2020-09-04T20:44:13Z,2020-09-21T16:17:20Z,2020-09-21T16:17:20Z,,arr00,0,[],1,16 days 19:33:07
+"Upgrade dependencies, merge into develop branch ",64,MERGED,2020-09-10T19:42:29Z,2020-09-10T22:53:45Z,2020-09-10T22:53:45Z,2020-09-10T22:53:45Z,toninorair,0,[],1,0 days 03:11:16
+Add market borrow caps,65,MERGED,2020-09-14T21:46:59Z,2022-01-01T15:50:22Z,2020-09-14T22:38:02Z,2020-09-14T22:38:02Z,jflatow,0,[],1,0 days 00:51:03
+Refactor interest rate models to share code,66,MERGED,2020-09-21T16:16:51Z,2021-03-28T00:03:23Z,2020-09-21T16:52:13Z,2020-09-21T16:52:13Z,jflatow,0,[],1,0 days 00:35:22
+"Attempt to upgrade everything (esp saddle), fix some tests",67,MERGED,2020-09-21T16:54:09Z,2021-02-09T02:15:45Z,2020-10-03T20:35:40Z,2020-10-03T20:35:40Z,jflatow,0,[],1,12 days 03:41:31
+CToken delegate for a comp-like token,68,MERGED,2020-09-21T17:04:33Z,2020-09-21T23:52:38Z,2020-09-21T23:52:37Z,2020-09-21T23:52:37Z,jflatow,0,[],1,0 days 06:48:04
+Add networks config for cUNI,69,MERGED,2020-09-24T21:00:00Z,2020-10-03T20:18:17Z,2020-10-03T20:17:18Z,2020-10-03T20:17:18Z,jflatow,0,[],1,8 days 23:17:18
+Add address for UNI IRM updateable,70,MERGED,2020-10-13T19:17:42Z,2021-03-28T00:00:18Z,2020-10-13T23:24:25Z,2020-10-13T23:24:25Z,jflatow,0,[],1,0 days 04:06:43
+Added fixed period vesting + Comptroller reductions,71,CLOSED,2020-10-14T10:42:15Z,2021-06-15T09:12:38Z,2021-06-15T09:12:38Z,,Pet3ris,0,[],1,243 days 22:30:23
+Update Exponential.sol,72,CLOSED,2020-10-22T05:01:52Z,2020-10-27T17:49:33Z,2020-10-27T17:49:13Z,,Juliane1111,0,[],1,5 days 12:47:21
+Remove CDelegationStorage from CDelegateInterface,73,CLOSED,2020-10-22T19:38:15Z,2020-12-02T23:32:46Z,2020-12-02T23:32:46Z,,limitedAtonement,0,[],1,41 days 03:54:31
+Create ++,74,CLOSED,2020-10-28T17:24:45Z,2020-10-28T17:40:08Z,2020-10-28T17:27:04Z,,laviol1980,0,[],1,0 days 00:02:19
+Compound/2.8,75,CLOSED,2020-11-07T12:54:08Z,2020-12-02T23:14:01Z,2020-12-02T23:14:01Z,,ihateaher0,0,[],1,25 days 10:19:53
+WIP: added flashloan to CDAI,76,CLOSED,2020-11-10T18:29:44Z,2020-11-26T17:42:25Z,2020-11-26T17:42:20Z,,vaibhavchellani,0,[],1,15 days 23:12:36
+Removing spaces,77,CLOSED,2020-11-11T09:20:04Z,2020-12-02T23:34:09Z,2020-12-02T23:34:09Z,,xternet,0,[],1,21 days 14:14:05
+Update README.md,78,MERGED,2020-11-24T05:39:08Z,2020-12-28T18:17:53Z,2020-12-28T18:17:53Z,2020-12-28T18:17:53Z,donguks,0,[],1,34 days 12:38:45
+Add `grantComp` and `setContributorCompSpeed`,79,MERGED,2020-12-01T18:35:37Z,2020-12-11T21:04:17Z,2020-12-10T22:45:04Z,2020-12-10T22:45:04Z,Pet3ris,0,[],1,9 days 04:09:27
+shasum update,80,MERGED,2020-12-10T03:15:06Z,2021-08-10T00:36:29Z,2021-08-10T00:29:14Z,2021-08-10T00:29:14Z,arr00,0,[],1,242 days 21:14:08
+Removed `refreshCompSpeeds` + removed automatic comp claims + added `_setCompSpeed`,83,MERGED,2020-12-11T21:09:15Z,2021-01-10T15:43:47Z,2020-12-28T18:16:41Z,2020-12-28T18:16:41Z,Pet3ris,0,[],1,16 days 21:07:26
+Hypothetical cDAI implementation and IRM migration,85,MERGED,2020-12-21T22:46:29Z,2021-01-03T00:24:30Z,2020-12-28T18:17:10Z,2020-12-28T18:17:10Z,arr00,0,[],1,6 days 19:30:41
+[ARCHIVED TO PRESERVE AUDIT REFERENCE COMMITS] Added cooldown for COMP claims,87,CLOSED,2020-12-28T13:08:31Z,2021-04-16T09:46:09Z,2021-04-16T09:45:46Z,,Pet3ris,0,[],1,108 days 20:37:15
+Governor Bravo,91,CLOSED,2021-01-14T19:47:11Z,2021-03-30T00:11:56Z,2021-03-30T00:11:55Z,,arr00,0,[],1,74 days 04:24:44
+Compound/2.2 prerelease v2,94,CLOSED,2021-01-19T07:41:43Z,2021-08-27T20:50:45Z,2021-08-27T20:50:45Z,,dnlhwrd3229,0,[],1,220 days 13:09:02
+Compound supply cap,95,OPEN,2021-01-20T06:45:36Z,2023-05-14T03:28:41Z,,,bun919tw,0,[],1,
+Anchor v1,96,CLOSED,2021-01-28T04:58:06Z,2021-01-28T04:59:29Z,2021-01-28T04:59:29Z,,nourharidy,0,[],1,0 days 00:01:23
+Add sweepToken functionality,97,MERGED,2021-01-28T05:18:58Z,2021-06-02T12:19:24Z,2021-02-16T19:31:54Z,2021-02-16T19:31:54Z,arr00,0,[],1,19 days 14:12:56
+Owner settable irm,99,CLOSED,2021-02-02T23:58:14Z,2021-11-16T21:07:51Z,2021-11-16T21:07:51Z,,arr00,0,[],1,286 days 21:09:37
+Validate input,100,CLOSED,2021-02-14T20:44:37Z,2021-02-14T20:44:50Z,2021-02-14T20:44:50Z,,arr00,0,[],1,0 days 00:00:13
+maximum ,103,CLOSED,2021-02-18T06:37:19Z,2021-08-10T17:47:39Z,2021-08-10T17:47:39Z,,ihateaher0,0,[],1,173 days 11:10:20
+Oracle Infrastructure: Chainlink Price Feeds,105,CLOSED,2021-03-11T16:18:00Z,2021-04-22T14:39:30Z,2021-04-22T14:36:50Z,,alexroan,0,[],1,41 days 22:18:50
+"[WIP] Rename Compound to Vortex, redeploy, and update Readme",108,CLOSED,2021-03-23T07:12:27Z,2021-03-23T08:19:30Z,2021-03-23T08:19:30Z,,uivlis,0,[],1,0 days 01:07:03
+Add in gov bravo versions of proposal and vote receipt lens functions.,109,MERGED,2021-03-29T23:43:10Z,2021-04-12T17:36:47Z,2021-04-12T17:36:46Z,2021-04-12T17:36:46Z,torreyatcitty,0,[],1,13 days 17:53:36
+Update Governor Bravo,110,MERGED,2021-03-29T23:48:27Z,2021-03-30T00:07:13Z,2021-03-30T00:07:12Z,2021-03-30T00:07:12Z,jflatow,0,[],1,0 days 00:18:45
+fix #113 typo : complaint -> compliant,114,MERGED,2021-04-11T13:34:46Z,2022-05-26T13:07:17Z,2021-07-27T15:16:19Z,2021-07-27T15:16:19Z,edd34,0,[],1,107 days 01:41:33
+Update token:deploy script to use latest cToken contract,115,MERGED,2021-04-16T02:55:43Z,2021-09-23T02:06:34Z,2021-08-11T18:26:46Z,2021-08-11T18:26:46Z,TylerEther,0,[],1,117 days 15:31:03
+Added cooldown for COMP claims [post audit branch],116,CLOSED,2021-04-16T09:44:57Z,2021-11-16T21:12:23Z,2021-11-16T21:12:23Z,,Pet3ris,0,[],1,214 days 11:27:26
+standard code,119,CLOSED,2021-04-22T10:20:52Z,2021-04-22T20:34:36Z,2021-04-22T20:34:36Z,,zgfzgf,0,[],1,0 days 10:13:44
+delete useless code,120,CLOSED,2021-04-27T02:46:07Z,2021-09-17T20:30:14Z,2021-09-17T20:30:14Z,,zgfzgf,0,[],1,143 days 17:44:07
+add queue period,121,CLOSED,2021-04-27T03:24:38Z,2021-09-03T20:22:22Z,2021-09-03T20:22:22Z,,zgfzgf,0,[],1,129 days 16:57:44
+Enable liquidations for all accounts in deprecated markets,123,MERGED,2021-05-06T02:56:18Z,2021-05-22T22:10:37Z,2021-05-14T01:11:19Z,2021-05-14T01:11:19Z,maxwolff,0,[],1,7 days 22:15:01
+Adds a portion of liquidated collateral to CToken reserves,124,MERGED,2021-05-06T03:00:38Z,2021-06-16T19:17:49Z,2021-05-14T00:57:23Z,2021-05-14T00:57:23Z,maxwolff,0,[],1,7 days 21:56:45
+Optimize claimComp gas,125,MERGED,2021-05-06T03:03:04Z,2021-05-14T01:45:50Z,2021-05-14T01:06:28Z,2021-05-14T01:06:28Z,maxwolff,0,[],1,7 days 22:03:24
+Support cLINK,126,CLOSED,2021-05-13T20:18:33Z,2021-08-11T18:57:03Z,2021-08-11T18:57:03Z,,TylerEther,0,[],1,89 days 22:38:30
+Compound/2.9,127,MERGED,2021-05-14T01:12:31Z,2021-07-13T22:52:26Z,2021-07-13T22:52:26Z,2021-07-13T22:52:26Z,maxwolff,0,[],1,60 days 21:39:55
+Optimize Claim,128,MERGED,2021-05-14T01:45:07Z,2021-05-14T01:45:50Z,2021-05-14T01:45:49Z,2021-05-14T01:45:49Z,maxwolff,0,[],1,0 days 00:00:42
+basic contracts for quadratic Governor Alpha,129,CLOSED,2021-05-19T02:10:19Z,2021-05-19T02:41:20Z,2021-05-19T02:41:20Z,,owocki,0,[],1,0 days 00:31:01
+Max/fix mainnet abis,130,MERGED,2021-05-20T22:09:08Z,2021-05-20T22:22:44Z,2021-05-20T22:22:44Z,2021-05-20T22:22:44Z,maxwolff,0,[],1,0 days 00:13:36
+[WIP] migrate deprecated ctoken collateral,133,CLOSED,2021-06-17T21:59:48Z,2021-07-13T22:52:27Z,2021-07-13T22:52:27Z,,yaronvel,0,[],1,26 days 00:52:39
+Networks submodule,134,CLOSED,2021-07-01T21:19:36Z,2021-08-11T18:56:42Z,2021-08-11T18:56:42Z,,TylerEther,0,[],1,40 days 21:37:06
+"Standardize line endings to Unix-style LF, except for PDFs",135,MERGED,2021-07-09T03:36:37Z,2021-08-30T00:24:46Z,2021-08-10T17:49:47Z,2021-08-10T17:49:47Z,TylerEther,0,[],1,32 days 14:13:10
+WIP: Upgrade Comptroller to use dynamic COMP reward distribution,139,CLOSED,2021-07-22T22:01:08Z,2021-08-11T18:32:58Z,2021-08-11T18:32:58Z,,TylerEther,0,[],1,19 days 20:31:50
+Reduce gas costs in CToken#redeemFresh,140,CLOSED,2021-07-26T21:05:36Z,2021-11-16T21:19:29Z,2021-11-16T21:19:28Z,,TylerEther,0,[],1,113 days 00:13:52
+Optimize COMP accrual functions,143,CLOSED,2021-07-28T00:44:32Z,2021-08-14T03:42:37Z,2021-08-13T21:54:37Z,,TylerEther,0,[],1,16 days 21:10:05
+Split COMP rewards distribution,144,CLOSED,2021-07-30T19:35:53Z,2021-10-01T18:27:56Z,2021-10-01T18:27:56Z,,TylerEther,0,[],0,62 days 22:52:03
+arr00 shasum update ,147,CLOSED,2021-08-10T00:24:40Z,2021-08-10T00:29:54Z,2021-08-10T00:29:54Z,,elee1766,0,[],0,0 days 00:05:14
+Fix COMP rewards bugs,148,CLOSED,2021-08-10T02:02:03Z,2021-08-13T21:16:26Z,2021-08-13T21:16:26Z,,TylerEther,0,[],0,3 days 19:14:23
+Add Governance Whitelist Users Feature,149,MERGED,2021-08-11T17:02:41Z,2021-11-16T21:26:46Z,2021-11-16T21:26:46Z,2021-11-16T21:26:46Z,arr00,0,[],0,97 days 04:24:05
+Changed SimplePriceOracle so ETH price can be set on testnets,151,MERGED,2021-08-24T21:26:06Z,2021-11-16T21:40:06Z,2021-11-16T21:40:05Z,2021-11-16T21:40:05Z,ajb413,0,[],0,84 days 00:13:59
+[RFP12] CToken Cleanup,152,MERGED,2021-08-29T22:34:04Z,2022-06-28T13:23:42Z,2022-06-07T01:47:38Z,2022-06-07T01:47:38Z,arjun-io,0,[],0,281 days 03:13:34
+Avoid token reentry attacks,153,CLOSED,2021-08-30T13:04:59Z,2021-11-16T21:32:32Z,2021-11-16T21:32:32Z,,wenzhenxiang,0,[],0,78 days 08:27:33
+Punitive accounting for borrow and redeem,157,CLOSED,2021-09-10T20:44:58Z,2021-10-04T19:35:15Z,2021-10-04T19:35:15Z,,jflatow,0,[],0,23 days 22:50:17
+Feature/por ctoken,158,CLOSED,2021-09-13T08:00:57Z,2021-09-24T05:54:36Z,2021-09-24T05:54:00Z,,yosriady,0,[],0,10 days 21:53:03
+Add borrow caps and  comp speed to lens,160,CLOSED,2021-09-29T18:25:57Z,2021-11-04T18:14:07Z,2021-11-04T18:14:07Z,,torreyatcitty,0,[],0,35 days 23:48:10
+The Comp Speeds Branch on Mainnet,161,MERGED,2021-09-30T21:08:36Z,2021-09-30T21:11:43Z,2021-09-30T21:11:42Z,2021-09-30T21:11:42Z,hayesgm,0,[],0,0 days 00:03:06
+Fix resolutions,162,OPEN,2021-09-30T21:09:40Z,2022-10-11T19:20:46Z,,,hayesgm,0,[],0,
+Tyler New Patch for #63,163,CLOSED,2021-09-30T21:13:40Z,2021-10-12T20:38:16Z,2021-10-12T20:38:15Z,,hayesgm,0,[],0,11 days 23:24:35
+Split Test Case,164,OPEN,2021-09-30T21:16:55Z,2021-11-16T21:21:07Z,,,coburncoburn,0,[],0,
+Proposal 64: Fix COMP distribution bug,165,MERGED,2021-10-01T23:58:32Z,2021-10-12T20:38:32Z,2021-10-12T20:38:32Z,2021-10-12T20:38:32Z,TylerEther,0,[],0,10 days 20:40:00
+Proposal 65: Correct bad COMP accruals,166,CLOSED,2021-10-05T01:43:43Z,2021-11-16T21:42:00Z,2021-11-16T21:40:57Z,,TylerEther,0,[],0,42 days 19:57:14
+Clarified the precision of exchangeRate within comments.,167,CLOSED,2021-10-05T17:08:30Z,2021-11-16T21:47:29Z,2021-11-16T21:47:29Z,,sbaichwal,0,[],0,42 days 04:38:59
+Add comptroller upgrade process to readme,170,MERGED,2021-10-19T23:16:53Z,2023-05-14T03:52:58Z,2021-11-16T21:40:17Z,2021-11-16T21:40:17Z,arr00,0,[],0,27 days 22:23:24
+Comp speed split,171,MERGED,2021-10-21T21:29:19Z,2021-10-22T19:02:45Z,2021-10-22T19:02:44Z,2021-10-22T19:02:44Z,torreyatcitty,0,[],0,0 days 21:33:25
+Tyler/fix bad comp accruals,173,MERGED,2021-11-04T17:30:47Z,2021-11-16T21:38:13Z,2021-11-16T21:38:12Z,2021-11-16T21:38:12Z,arr00,0,[],0,12 days 04:07:25
+Allow governance to send eth stored in timelock,174,CLOSED,2021-11-10T01:58:22Z,2021-11-30T21:14:16Z,2021-11-30T21:05:34Z,,arr00,0,[],0,20 days 19:07:12
+Enable Transfer ETH from Timelock,177,OPEN,2021-11-30T21:05:03Z,2022-09-07T17:14:54Z,,,arr00,0,[],0,
+cFRAX Support and Simulation ,183,OPEN,2022-01-19T23:20:36Z,2022-02-04T09:22:36Z,,,corddry,0,[],0,
+Gauge oracle,185,CLOSED,2022-02-01T00:53:39Z,2022-04-01T20:28:52Z,2022-04-01T20:28:52Z,,chuddster,0,[],0,59 days 19:35:13
+Improve security of Comptroller#_supportMarket,186,OPEN,2022-02-03T09:10:12Z,2022-04-18T09:02:30Z,,,TylerEther,0,[],0,
+fix desc of compSupplierIndex,188,OPEN,2022-02-11T03:02:02Z,2022-04-18T09:02:19Z,,,mhxw,0,[],0,
+Lower Proposal Threshold to 25K,189,MERGED,2022-02-23T10:11:33Z,2022-03-29T17:04:42Z,2022-03-29T17:04:41Z,2022-03-29T17:04:41Z,ratankaliani,0,[],0,34 days 06:53:08
+Sweep Comptroller WBTC,193,OPEN,2022-04-06T02:15:22Z,2022-07-04T01:15:44Z,,,arr00,0,[],0,
+Uniswap TWAP,194,CLOSED,2022-04-06T22:31:23Z,2022-04-06T22:32:54Z,2022-04-06T22:32:48Z,,0xtomm,0,[],0,0 days 00:01:25
+Feat/borrower whitelist,195,CLOSED,2022-04-06T22:50:32Z,2022-04-06T22:51:29Z,2022-04-06T22:51:29Z,,elstongun,0,[],0,0 days 00:00:57
+Fix typo,197,OPEN,2022-04-21T14:14:53Z,2022-05-05T20:36:02Z,,,AbhiGulati,0,[],0,
+Code review,198,CLOSED,2022-04-27T13:49:50Z,2022-04-27T13:50:32Z,2022-04-27T13:50:32Z,,nabaruns,0,[],0,0 days 00:00:42
+Governance changes scoping,199,CLOSED,2022-05-09T04:44:29Z,2022-05-09T04:46:42Z,2022-05-09T04:46:41Z,,abhipingle,0,[],0,0 days 00:02:12
+Abhi updates,200,OPEN,2022-05-09T20:20:19Z,2022-05-09T20:20:19Z,,,abhipingle,0,[],0,
+"abstract, virtual, override Modifiers",201,CLOSED,2022-05-16T23:06:56Z,2022-05-16T23:11:11Z,2022-05-16T23:11:02Z,,skryptz,0,[],0,0 days 00:04:06
+Draft: Feat/unitroller factory,202,OPEN,2022-05-24T22:07:45Z,2022-05-24T22:07:45Z,,,0xhamish,0,[],0,
+Update error handling,206,CLOSED,2022-06-15T17:54:52Z,2022-06-23T03:06:19Z,2022-06-20T19:48:26Z,,ZrowGz,0,[],0,5 days 01:53:34
+Update error handling,207,OPEN,2022-06-23T03:08:17Z,2022-07-07T04:18:29Z,,,ZrowGz,0,[],0,
+upgrade GovernorBravoDelegateG2 to 0.8.10,208,OPEN,2022-06-23T16:17:31Z,2022-07-16T00:27:00Z,,,jbeanz,0,[],0,
+"Fix compilation errors, upgrade Solidity",210,CLOSED,2022-07-08T17:46:38Z,2023-07-05T19:30:49Z,2023-07-05T19:30:49Z,,arjun-io,0,[],0,362 days 01:44:11
+[DRAFT] Flatten interest rate model,211,CLOSED,2022-07-11T00:33:07Z,2022-07-12T21:27:46Z,2022-07-12T21:27:46Z,,btree1970,0,[],0,1 days 20:54:39
+add band price oracle,212,CLOSED,2022-08-08T18:37:25Z,2022-08-08T18:45:30Z,2022-08-08T18:45:24Z,,0xzephyros,0,[],0,0 days 00:07:59
+Add in-queue check for cancelTransaction() in Timelock.sol,213,OPEN,2022-08-12T08:27:16Z,2023-06-19T02:22:56Z,,,AmazingAng,0,[],0,
+Fix in documentation description - details about number of decimals in returned value.,216,OPEN,2022-08-26T06:59:06Z,2022-08-26T06:59:06Z,,,mario-ipor,0,[],0,
+Use Memory Type Variable Instead of Storage Type Variable in Event to Save Gas,217,CLOSED,2022-08-28T11:41:26Z,2023-03-10T01:35:41Z,2023-03-10T01:35:40Z,,Ether1oop,0,[],0,193 days 13:54:14
+Try to get new Lens,218,OPEN,2022-08-30T20:48:34Z,2022-08-30T21:16:40Z,,,hayesgm,0,[],0,
+fix ci,219,OPEN,2022-08-30T21:52:24Z,2022-08-31T00:50:19Z,,,arr00,0,[],0,
+Fix pragma breaking CI,220,OPEN,2022-09-17T21:34:34Z,2022-09-17T21:34:34Z,,,Sabnock01,0,[],0,
+Fix/fuse aggregator fix,221,CLOSED,2022-09-21T17:55:17Z,2022-09-21T17:55:31Z,2022-09-21T17:55:31Z,,sriyantra,0,[],0,0 days 00:00:14
+Update BaseJumpRateModelV2.sol,226,OPEN,2022-11-01T16:32:00Z,2022-11-01T16:32:00Z,,,LIPUU,0,[],0,
+Gas optimization,227,OPEN,2022-11-13T04:59:51Z,2023-03-27T11:01:40Z,,,MollyHe5,0,[],0,
+Pre deploy,229,CLOSED,2022-11-18T23:29:43Z,2022-11-18T23:29:56Z,2022-11-18T23:29:56Z,,zbirenbaum,0,[],0,0 days 00:00:13
+Update DAIInterestRateModel to v4 (fixes #230),231,OPEN,2022-12-22T15:36:37Z,2023-04-14T06:11:33Z,,,fmorisan,0,[],0,
+Kifen/fork,232,CLOSED,2023-03-01T13:27:43Z,2023-03-01T13:27:54Z,2023-03-01T13:27:54Z,,Kifen,0,[],0,0 days 00:00:11
+Fix error emitter,234,OPEN,2023-03-18T01:46:59Z,2023-05-03T22:34:17Z,,,rotcivegaf,0,[],0,
+Integrate and setup hardhat,236,CLOSED,2023-05-15T13:34:57Z,2023-05-15T13:35:32Z,2023-05-15T13:35:03Z,,0xphen,0,[],0,0 days 00:00:06
