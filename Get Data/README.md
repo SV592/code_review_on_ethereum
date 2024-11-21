@@ -1,12 +1,6 @@
 # GitHub Pull Request Analysis
 
-This project includes two scripts, `get_pullrequestdata.py` and `pull_requests.py`, designed to streamline the process of collecting and processing pull request (PR) data from GitHub repositories. These tools extract detailed PR metadata and facilitate the exploration of PR changes locally.
-
----
-
-## Overview
-
-### **`get_pullrequestdata.py`**
+ **`get_pullrequestdata.py`**
 This script uses the GitHub GraphQL API to extract detailed pull request data for a given repository. It gathers metadata such as:
 - PR title, number, state, creation/merge times
 - Number of reviewers and comments
@@ -16,9 +10,10 @@ This script uses the GitHub GraphQL API to extract detailed pull request data fo
 The extracted data is saved in a CSV file for further processing.
 
 ### **`pull_requests.py`**
-This script facilitates:
-- Checking out merged pull requests from a local Git repository.
-- Preparing the repository state for additional analysis or review.
+This script automates the process of:
+- Checking out merged pull requests in a local repository.
+- Running static analysis on the merged code using **Slither** to identify vulnerabilities.
+- Storing the results of the analysis in JSON files.
 
 ---
 
@@ -31,7 +26,8 @@ This script facilitates:
 
 ### `pull_requests.py`
 - Automates the checkout of merged PRs in a local repository.
-- Prepares the local repository state for custom analysis.
+- Runs **Slither**, a Solidity static analysis tool, on the code introduced by the PRs.
+- Saves vulnerability reports in JSON format for further investigation.
 
 ---
 
@@ -39,13 +35,7 @@ This script facilitates:
 
 - Python 3.8+
 - Git
-- GitHub API token with `repo` and `read:org` permissions for private repositories.
-
----
-
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/github-pr-analysis.git
-   cd github-pr-analysis
+- Node.js (for Slither)
+- **Slither** Solidity Analyzer:
+  ```bash
+  npm install -g slither-analyzer
