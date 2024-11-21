@@ -7,7 +7,7 @@ csv_file_path = ".\\Repos\\Uniswap-v3core.csv"
 
 # Path to the local Git repository
 repo_path = (
-    ".\\Users\\23pears\\Desktop\\Grad Work (UoW)\\Classes\\CS854\Project\\v3-core"
+    ".Project\v3-core"
 )
 
 # Directory to save Slither scan results
