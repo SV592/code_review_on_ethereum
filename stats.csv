@@ -1,0 +1,6 @@
+Repository,Num of Merged PRs,Num of Open PRs,Num of Closed PRs,average_merge_time,average_close_time,average_num_reviewers,average_num_comments
+v3,418,9,50,181,334,1,0
+Compoundfinance-protocol,50,22,84,670,1304,0,1
+makerdao-dss,154,12,65,152,831,1,0
+smartcontractkit-chainlink,7370,108,1990,77,446,1,2
+Uniswap-v3core,214,6,105,66,363,1,1
