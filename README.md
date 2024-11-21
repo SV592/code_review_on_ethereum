@@ -66,3 +66,9 @@ The findings reveal gaps in current review practices and provide recommendations
    ```bash
    git clone https://github.com/yourusername/ethereum-code-review.git
    cd ethereum-code-review
+
+## Authors
+- Shaquille Pearson
+- Aryan Haddady
+- Sky Qiao
+
