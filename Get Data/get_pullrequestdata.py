@@ -121,7 +121,6 @@ for token in tokens:
                 pr_closed_at = pr["closedAt"]
                 pr_merged_at = pr["mergedAt"]
                 for pr in pull_requests:
-                    # ... other code ...
 
                     # Check if author is not None before accessing its properties
                     if pr["author"]:
@@ -131,10 +130,8 @@ for token in tokens:
                             "Unknown"  # Provide a default value if author is missing
                         )
 
-                    # ... other code ...
 
                 for pr in pull_requests:
-                    # ... other code ...
 
                     # Check if reviews is not None before accessing its properties
                     if pr["reviews"]:
@@ -147,8 +144,6 @@ for token in tokens:
                     else:
                         pr_reviews_count = 0
                         pr_reviewers = []
-
-                    # ... other code ...
 
                 pr_reviewers = [
                     review["author"]["login"] for review in pr["reviews"]["nodes"]
